@@ -7,6 +7,7 @@
 - run_web.sh  is the simple web server
 
 '''shell
+
 python pi-motion-lite.py
 
 sh run_web.sh
